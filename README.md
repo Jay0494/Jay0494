@@ -7,6 +7,7 @@
 - 😄 Pronouns: He/Him
 - You can check out some of my projects here https://github.com/Jay0494/Elijah_Okpako_Data_analyst_portfolio
 - ⚡ Fun fact: Every problem has a solution, you just have to dive deeper, fly higher, look beyond what you see and go the extra mile.
+- Feel free to contact me I believe it would be worth your time remembera problem shared is a problem solved.
 
 <!---
 Jay0494/Jay0494 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
