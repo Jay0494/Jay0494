@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Elijah An experienced data analyst/Bi developer proficient in Powerbi, SQL and python(for data manipulation)
+- 👋 Hi, my name is Elijah, I am an experienced data analyst/Bi developer proficient in Powerbi, SQL and python(for data manipulation)
 - 👀 I love to solve mysteries and problems hence I see myself as a data detective.
 - 🌱 I’m currently learning Machine learning techniques in python 
 - 💞️ I’m looking to collaborate on Predictions using machine learning and any other data analytic project(Voluntary or paid), I am also looking for some freelance work.  
